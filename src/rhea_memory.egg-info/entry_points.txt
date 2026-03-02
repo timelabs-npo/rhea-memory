@@ -1,0 +1,2 @@
+[console_scripts]
+rhea-memory = rhea_memory.cli:main
